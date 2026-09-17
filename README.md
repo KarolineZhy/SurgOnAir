@@ -8,8 +8,7 @@
 
 ## Demo
 
-<!-- TODO: replace the line below with the GitHub user-attachments URL of the demo video (see notes) -->
-*Demo video coming soon.*
+https://github.com/user-attachments/assets/c29f0261-31f4-4917-9a71-19fa32f6fc73
 
 ## Abstract
 
